@@ -4,4 +4,4 @@
 
 
 
-其他 build tuto - 
+* 其他 build tuto - https://github.com/hechaog/hechaog.github.io/blob/main/github_page.md
