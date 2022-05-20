@@ -1,4 +1,7 @@
-
+---
+theme: jekyll-theme-midnight
+highlight: jekyll-theme-midnight
+---
 
 ## Welcome to GitHub Pages
 
