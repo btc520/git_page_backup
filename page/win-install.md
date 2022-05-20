@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "win-install"
-permalink: /page/
----
+title: test
+layout: template
+filename: win-install.md
+--- 
 
 
 ## Welcome to GitHub Pages
