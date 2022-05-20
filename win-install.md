@@ -1,5 +1,6 @@
 ---
-theme: jekyll-theme-midnight
+layout: post
+title: Blogging Like a Hacker
 ---
 
 
