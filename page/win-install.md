@@ -1,3 +1,9 @@
+---
+layout: page
+title: "win-install"
+permalink: /page/
+---
+
 
 ## Welcome to GitHub Pages
 
