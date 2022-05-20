@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: just-the-docs/just-the-docs
 
 
 markdown: jekyll-theme-midnight
