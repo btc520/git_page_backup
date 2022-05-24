@@ -1,3 +1,7 @@
+---
+title: 兄弟们好！
+---
+
 ## Welcome to GitHub Pages
 
 * 跳转到撸毛 - https://github.com/hechaog/web3-airdrop
