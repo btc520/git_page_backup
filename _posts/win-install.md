@@ -1,5 +1,9 @@
 ---
-title: 标题测试 win 安装
+title: "Post: win"
+categories:
+  - Blog
+tags:
+  - hardware
 ---
 
 ## Welcome to GitHub Pages
