@@ -100,6 +100,8 @@ defaults:
       comments: true
       share: true
       related: true
+      nav: "docs"
+      
   # _pages
   - scope:
       path: "_pages"
@@ -114,3 +116,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
