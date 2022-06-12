@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - hardware
+sidebar:
+  nav: "docs"
 ---
 
 ## Welcome to GitHub Pages
