@@ -117,13 +117,13 @@ defaults:
 
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
       author_profile: false
       share: true
-      
+
 category_archive:
   type: liquid
   path: /categories/
