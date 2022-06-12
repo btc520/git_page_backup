@@ -16,6 +16,7 @@
 
 title: 标题 SB
 email: hechaogm@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -100,7 +101,8 @@ defaults:
       comments: true
       share: true
       related: true
-      nav: "docs"
+      sidebar:
+        nav: "docs"
 
   # _pages
   - scope:
@@ -109,6 +111,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
@@ -117,6 +121,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
-sidebar:
-  nav: "docs"
