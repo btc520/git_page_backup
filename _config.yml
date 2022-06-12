@@ -101,7 +101,7 @@ defaults:
       share: true
       related: true
       nav: "docs"
-      
+
   # _pages
   - scope:
       path: "_pages"
@@ -118,3 +118,5 @@ tag_archive:
   path: /tags/
 
 
+sidebar:
+  nav: "docs"
