@@ -11,3 +11,6 @@ title: github 主题设置
 
 
 https://jekyllrb.com/docs/posts/
+
+## MM theme
+- https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
